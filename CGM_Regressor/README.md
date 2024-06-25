@@ -1,0 +1,5 @@
+-  I created a Data Ingestion Class Component + ML Workflow for cgm files
+    - data ingestion, cleaning, and exploration
+    - feature exploration and selection
+    - random forest regressor 
+    - model evaluation (82% Accuracy)
